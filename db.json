@@ -39,6 +39,17 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "id": 6,
+      "name": "Cup Noodles",
+      "restaurant": "Supermarket",
+      "image": "https://www.nissinfoods.com/wp-content/uploads/2023/03/23_NISSIN_Content_Product_CN_Base_Chicken_SM_X1_0140_retouched_R1V1_3000x3000.jpg",
+      "rating": 3,
+      "comment": "Good when you're lazy to cook!"
+    },
+    {
+      "id": 7
     }
   ]
 }
